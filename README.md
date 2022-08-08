@@ -1,2 +1,5 @@
 # Museum-of-Objects
-Simple front and back end site 
+simple front and back end site
+
+Front end created using Vue
+Back end using Node.js
